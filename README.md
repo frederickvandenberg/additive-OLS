@@ -16,7 +16,7 @@ An additive ordinary least squares (OLS) regression, using media frequency to fo
 ![Opps, Not found!](https://github.com/frederickvandenberg/additive-OLS/blob/main/images/trend-check.png)
 ![Opps, Not found!](https://github.com/frederickvandenberg/additive-OLS/blob/main/images/trend-percentage.png)
 
-### Timeseries
+### Metrics
 ![Opps, Not found!](https://github.com/frederickvandenberg/additive-OLS/blob/main/images/timeseries-prediction.png)
 ![Opps, Not found!](https://github.com/frederickvandenberg/additive-OLS/blob/main/images/timeseries-metrics.png)
 
