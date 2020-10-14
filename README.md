@@ -1,6 +1,7 @@
 # Additive OLS Model
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
+
 > Need to create classes, functions and optimse script.
 
 An additive ordinary least squares (OLS) regression, using media frequency to forecast gold price.
