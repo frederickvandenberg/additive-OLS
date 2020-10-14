@@ -4,7 +4,7 @@
 
 > Need to create classes, functions and optimse script.
 
-An additive ordinary least squares (OLS) regression, using media frequency to forecast gold price.
+Granger causality tests showed significant correlation between media frequency and price at 6 month lag. An additive ordinary least squares (OLS) regression was applied.
 
 ### Timeseries
 ![Opps, Not found!](https://github.com/frederickvandenberg/additive-OLS/blob/main/images/year-timeseries.png)
